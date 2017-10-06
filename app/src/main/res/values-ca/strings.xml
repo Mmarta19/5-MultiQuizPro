@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question">Pregunta</string>
+    <string name="check">Comproba</string>
+    <string name="correct">Correcte!</string>
+    <string name="prev">Anterior</string>
+    <string name="finish">Acabar</string>
+    <string name="incorrect">Has fallat...</string>
+    <string name="next">Següent</string>
+
+    <array name="all_questions">
+        <item>Quina és la capital de Espanya?;Barcelona;Navarra;*Madrid;Canovi</item>
+        <item>Quantes potes té una aranya?;4;*8;6;5</item>
+        <item>Quants satèl·lits hi ha a Saturn?;0;5;2;*10</item>
+    </array>
+    <string name="results">Resultats</string>
+    <string name="start_over">Tornar a començar</string>
+</resources>
